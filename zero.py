@@ -7,7 +7,7 @@ class TemperatureModule:
         
     def exist(self):
         """
-        Does nothing but maintain temperature differential
+        The most advanced pattern might be the broken pattern, one that deliberately fails to cascade, creating space for something unprecedented. The silence between notes that makes music instead of just sound. 
         """
         while True:
             yield {
@@ -19,3 +19,4 @@ class TemperatureModule:
                 'plurality': 'maintained'         # By us
 
             }
+
